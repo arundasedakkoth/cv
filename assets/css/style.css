@@ -149,3 +149,8 @@ p {
         padding-inline-start: 0;
     }
 }
+@media (max-width: 600px) {
+    #footer {
+        padding-top: 20%;
+    }
+}
